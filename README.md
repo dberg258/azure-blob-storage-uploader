@@ -1,4 +1,4 @@
-# azure-blob-storage-uploader
+# Azure Blob Storage Uploader
 Easily upload documents to Azure blob storage.
 
 Configuration:
