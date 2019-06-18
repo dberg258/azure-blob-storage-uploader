@@ -2,6 +2,7 @@
 Easily upload documents to Azure blob storage.
 
 Configuration:
+
 1- An azure subscription is needed.
 
 2- An azure storage account is needed, as well as a container within that storage account. 
