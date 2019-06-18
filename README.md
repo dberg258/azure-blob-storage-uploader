@@ -1,7 +1,7 @@
 # Azure Blob Storage Uploader
 Easily upload documents to Azure blob storage.
-
-
+  
+  
 Configuration:
 
 1- An azure subscription is needed.
