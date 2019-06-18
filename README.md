@@ -15,7 +15,6 @@ Configuration:
 
 
 Run:
-
     Input the file-path to the folder you want to upload from. The program will then upload 
     any files from that folder that are not already contained within your blob storage. 
   
