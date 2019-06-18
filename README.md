@@ -11,6 +11,7 @@ Configuration:
 3- Input azure information:
     
    storage_key = "<storage_key>" // subscription key from azure storage account
+   
    storage_account_name = "<storage_account_name>"
     
    storage_container_name = "<container_name>"
